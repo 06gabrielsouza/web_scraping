@@ -24,7 +24,7 @@ Script Python que:
 
 4. **Resultado**:
    ```
-   Procurando links para os Anexos I e II
+   Procurando links para os Anexos I e II...
    Adicionado ao ZIP: anexo-i.pdf
    Adicionado ao ZIP: anexo-ii.pdf
    
